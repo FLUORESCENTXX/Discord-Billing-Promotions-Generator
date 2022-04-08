@@ -14,6 +14,7 @@ both are below me for download and there is no viruses or password cuz thats me 
 
 2. ![image](https://user-images.githubusercontent.com/95067718/162537563-42026e59-a738-426d-9b33-0f3d3b556ed1.png)
 
+
 (Type py main.py and click the folder and type cmd to run it dont just double tap it as it wont work)
 (Has a code generator and checker, credits and my socials if u really care about them
 
