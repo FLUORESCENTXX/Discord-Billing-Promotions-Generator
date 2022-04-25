@@ -7,6 +7,10 @@ Credits fluroxx for py files
 
 both are below me for download and there is no viruses or password cuz thats me :D
 
+# Tutorial
+https://www.youtube.com/watch?v=tq7yaba8uiQ
+is here
+
 # Previews
 1. ![image](https://user-images.githubusercontent.com/95067718/162537485-1b51cb37-4097-4720-8cab-8c3db9eb5f8d.png)
 (Type py main.py and click the folder and type cmd to run it dont just double tap it as it wont work)
