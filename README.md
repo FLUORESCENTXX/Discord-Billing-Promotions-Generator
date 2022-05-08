@@ -14,7 +14,7 @@ Credits fluroxx for py files
 both are below me for download and there is no viruses or password cuz thats me :D
 
 # Tutorial
-https://www.youtube.com/watch?v=tq7yaba8uiQ
+https://www.youtube.com/watch?v=Rk3Z5BTWBiQ
 is here
 
 # Previews
